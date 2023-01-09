@@ -1,0 +1,1 @@
+function diferencia(total_lista){}
